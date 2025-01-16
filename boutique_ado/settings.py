@@ -30,8 +30,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = 'DEBUG' in os.environ
 
 ALLOWED_HOSTS = [
+    '8000-ajgreaves-boutiqueadogi-9cmktjmv2af.ws.codeinstitute-ide.net',
     'anna-boutique-ado-vscode-71b5d42cf0c1.herokuapp.com',
-    '127.0.0.1',
 ]
 
 
