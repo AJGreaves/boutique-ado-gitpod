@@ -31,7 +31,7 @@ DEBUG = 'DEBUG' in os.environ
 
 ALLOWED_HOSTS = [
     '8000-ajgreaves-boutiqueadogi-9cmktjmv2af.ws.codeinstitute-ide.net',
-    'anna-boutique-ado-vscode-71b5d42cf0c1.herokuapp.com',
+    'anna-boutique-ado-gitpod-60057e50bc5e.herokuapp.com',
 ]
 
 
